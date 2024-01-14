@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['value_0',['Value',['../class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_general_1_1_hype_train_progress.html#ae8fd992534c127cd90f91a39552c3b00',1,'Firesplash.UnityAssets.TwitchIntegration.DataTypes.General.HypeTrainProgress.Value()'],['../class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_general_1_1_hype_train_level.html#a9bd03aff96b4fcfb5a8a988d0c246682',1,'Firesplash.UnityAssets.TwitchIntegration.DataTypes.General.HypeTrainLevel.Value()']]],
+  ['version_1',['Version',['../class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_general_1_1_user_badge.html#aae3052c8ef6180bf8a2aebed5a9756a4',1,'Firesplash.UnityAssets.TwitchIntegration.DataTypes.General.UserBadge.Version()'],['../class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_pub_sub_1_1_base_1_1_pub_sub_event_message.html#a9dcf8b3d7add94aa360b9501dbb65cc2',1,'Firesplash.UnityAssets.TwitchIntegration.DataTypes.PubSub.Base.PubSubEventMessage.Version()']]]
+];

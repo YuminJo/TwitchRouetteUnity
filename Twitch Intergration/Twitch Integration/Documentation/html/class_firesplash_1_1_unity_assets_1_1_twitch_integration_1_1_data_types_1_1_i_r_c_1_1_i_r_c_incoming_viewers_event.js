@@ -1,0 +1,7 @@
+var class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_i_r_c_1_1_i_r_c_incoming_viewers_event =
+[
+    [ "IsRaidEvent", "class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_i_r_c_1_1_i_r_c_incoming_viewers_event.html#a8b1c744fe55e48e508c0ae06642bfcc7", null ],
+    [ "OriginatingChannel", "class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_i_r_c_1_1_i_r_c_incoming_viewers_event.html#a1018f660244fcfd27679ab8b89186e35", null ],
+    [ "OriginatingChannelDisplayName", "class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_i_r_c_1_1_i_r_c_incoming_viewers_event.html#ab6c3da29b5386a835301c6225190952b", null ],
+    [ "ViewerCount", "class_firesplash_1_1_unity_assets_1_1_twitch_integration_1_1_data_types_1_1_i_r_c_1_1_i_r_c_incoming_viewers_event.html#a166799201a89d0a1c437cd365c720898", null ]
+];
