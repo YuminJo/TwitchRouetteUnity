@@ -1,18 +1,15 @@
-# Unity < - > Twitch Point Rouette
+# 📝 Unity < - > Twitch // Point Rouette
 
-Twitch 서비스 종료 이전에 개발했던 Twitch Api < - > Unity Cs
+## ✨ 프로젝트 소개 プロジェクト紹介
+- Twitchサービス終了以前に開発したTwitch Api <-> Unity
+- Twitchサービス終了に伴う終了
 
-Color Picker -> https://github.com/judah4/HSV-Color-Picker-Unity
+## 📆 프로젝트 기간 プロジェクト期間
+**2022 09 ~ 2022 11
 
-Twitch Intergration -> 서비스 종료
+<br>
 
-2024 01 15
-
-
-# Unity < - > Twitch Point Rouette
-
-Twitchサービス終了以前に開発したTwitch Api <-> Unity
-
-Twitchサービス終了に伴う終了
-
-アセットは使用禁止
+![image](https://github.com/user-attachments/assets/2cd6541b-89ce-439e-b215-d79caa56f002)
+![image](https://github.com/user-attachments/assets/ec051cb6-4d73-4e83-8784-b4237baff916)
+![image](https://github.com/user-attachments/assets/fd85a0f2-4382-49c3-a617-2ecab793d1af)
+![image](https://github.com/user-attachments/assets/89abacbe-c957-4984-a98d-1ac21d3f9292)
